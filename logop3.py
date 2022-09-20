@@ -1,3 +1,3 @@
 n=int(input())
-if n>-3 or n<=2:
+if n>-3 and n<=2:
     print(n)
